@@ -1,2 +1,2 @@
-# Personal Portfolio ⚡️ 
+# Personal Portfolio 
 https://anoop01234.github.io
